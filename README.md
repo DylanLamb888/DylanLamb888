@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="banner.gif" alt="Dylan Lamb, founder of Scale Olympus, with Lambo the pixel lamb" width="100%">
+  <img src="banner.gif" alt="Dylan Lamb, founder of Scale Olympus, with Lambo the Scale Olympus mascot" width="100%">
 </p>
 
 ### Hi, I'm Dylan.
 
-I run [Scale Olympus](https://scaleolympus.com), where I work on cold email, GTM and marketing engineering.
+I run [Scale Olympus](https://scaleolympus.com). I work on cold email, GTM and marketing engineering, and I build the systems behind it with Claude Code.
 
-I build the systems behind it with Claude Code: the outbound engine, the market maps, and the graphics.
+### Meet Lambo, the Scale Olympus mascot.
 
-**Meet Lambo.** He's my pixel lamb (the surname had to go somewhere). Give him a post topic and he comes back as an on-brand GIF, a set of hero images and a LinkedIn carousel. He vibes, he builds, and when the story wins he turns into the Golden Fleece.
+Lambo is the face of Scale Olympus. Right now he explains the ideas behind outbound. Give him a concept and he turns it into a GIF, a set of images and a LinkedIn carousel that make it click in seconds.
+
+He already lives in pixels and in 3D, and when the story wins he turns into the Golden Fleece.
 
 <p align="center">
   <a href="https://scaleolympus.com"><img alt="scaleolympus.com" src="https://img.shields.io/badge/scaleolympus.com-2a3b5c?style=for-the-badge"></a>
